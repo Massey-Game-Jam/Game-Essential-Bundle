@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Game Essential Bundle",
+      "message": {
+        "embeds": [
+          {
+            "title": "Game Essential Bundle | Systems | Unity Asset Store",
+            "description": "__Contains:__\n\n> Simple Ads\n> Easy Score System\n> Easy Game Audios\n\n*Buy Game Essential Bundle & Save 20%*",
+            "color": 65307,
+            "fields": [
+              {
+                "name": "Check out the link below to find more information:",
+                "value": "https://assetstore.unity.com/packages/templates/systems/game-essential-bundle-180304?aid=1100IcQsJ"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-09T20:22:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6bc74ebe-6e7e-4497-afcc-902d7d1b3cb9.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
